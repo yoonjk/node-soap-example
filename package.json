@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macogala/node-soap-example.git"
+    "url": "git+https://github.com/yoonjk/node-soap-example.git"
   },
   "keywords": [
     "SOAP",
